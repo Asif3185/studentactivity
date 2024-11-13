@@ -137,7 +137,7 @@ body{
 }
 .alert-ql{
     border: 1px solid;
-    border-color: #faf9f8;
+    border-color: #e9eaec;
 
     
 }.circle-bar {
@@ -149,7 +149,7 @@ body{
 .dot {
     height: 25px;
     width: 25px;
-    background-color: #d62929;
+    background-color: #f10707;
     border-radius: 50%;
     display: inline-block;
   }
